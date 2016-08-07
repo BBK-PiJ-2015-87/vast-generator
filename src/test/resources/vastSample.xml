@@ -1,0 +1,10 @@
+<VAST version="3.0">
+    <Ad>
+        <InLine>
+            <Impression/>
+            <Creatives>
+                <Creative/>
+            </Creatives>
+        </InLine>
+    </Ad>
+</VAST>
